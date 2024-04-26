@@ -1,1 +1,1 @@
-# Sample Java Project with Bugs, Vulnerabilities and Bad Code
+# Sample Java Project with Bugs, Vulnerabilities and Bad code
