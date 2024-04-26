@@ -7,8 +7,8 @@ plugins {
 
 sonar {
   properties {
-    property "sonar.projectKey", "demo-github-organization_sample_java_project_with_bugs_vulnerabilities_and_bad_code"
-    property "sonar.organization", "demo-github-organization"
+    property "sonar.projectKey", "demo-github-organization-kh_sample_java_project_with_bugs_vulnerabilities_and_bad_code"
+    property "sonar.organization", "demo-github-organization-kh"
     property "sonar.host.url", "https://sonarcloud.io"
   }
 }
